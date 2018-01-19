@@ -53,7 +53,12 @@ end
 ## Credits
 
 [![Sticksnleaves](http://sticksnleaves-wordpress.herokuapp.com/wp-content/themes/sticksnleaves/images/snl-logo-116x116.png)](http://www.sticksnleaves.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fparanoia_uniqueness_validator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fparanoia_uniqueness_validator?ref=badge_shield)
 
 paranoia_uniqueness_validator is maintained and funded by [Sticksnleaves](http://www.sticksnleaves.com)
 
 Thanks to all of our [contributors](https://github.com/anthonator/paranoia_uniqueness_validator/graphs/contributors)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fparanoia_uniqueness_validator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fparanoia_uniqueness_validator?ref=badge_large)
